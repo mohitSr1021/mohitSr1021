@@ -6,9 +6,6 @@
     <img width="100" height="100" src="https://img.icons8.com/bubbles/100/man-with-beard-in-blue-shirt.png" alt="Man with Beard in Blue Shirt"/>
     <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohitsr1021&label=Profile%20views&color=0e75b6&style=flat" alt="mohitsr1021" /> </p>
     <h2> Hey there! 👋 I'm Mohit Singh Rawat, a passionate Web Developer from India. </h2>
-    <p>
-        Currently, I'm diving deep into the world of <strong>React.js</strong>
-    </p>
 </div>
 
 <div align="center">
