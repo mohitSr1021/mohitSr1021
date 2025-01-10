@@ -1,29 +1,93 @@
+# 👋 Hi, I'm Mohit Singh Rawat
+
+[![GitHub followers](https://img.shields.io/github/followers/mohitSr1021?label=Follow&style=social)](https://github.com/mohitSr1021)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohit--singh--rawat-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohit-singh-rawat-12680b21b)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-success?style=flat&logo=google-chrome)](https://dev-portfolio-in.vercel.app/welcome)
+[![Email](https://img.shields.io/badge/Email-mohit.sr.lvp1021%40gmail.com-red?style=flat&logo=gmail)](mailto:mohit.sr.lvp1021@gmail.com)
+
 <div align="center">
     <img src="https://github.com/mohitSr1021/mohitSr1021/blob/main/me.gif" style="width:80vw; height:250px;" alt="Mohit Singh Rawat"/>
 </div>
-<div align="center">
-    <br>
-    <img width="100" height="100" src="https://img.icons8.com/bubbles/100/man-with-beard-in-blue-shirt.png" alt="Man with Beard in Blue Shirt"/>
-    <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohitsr1021&label=Profile%20views&color=0e75b6&style=flat" alt="mohitsr1021" /> </p>
-    <h2> Hey there! 👋 I'm Mohit Singh Rawat, a passionate Web Developer from India. </h2>
-</div>
+
+## 🎯 About Me
+Passionate web developer with **MERN stack** expertise. I’ve interned at Zyper.ai and am continuously working on innovative projects. With a strong academic background (CGPA: 8.81), I’m committed to continuous learning. As a tea enthusiast, I believe in the power of a well-brewed cup to enhance focus and productivity.
+
+
+## 💼 Professional Experience
+
+### Software Development Intern at Zyper.ai
+- 🚀 Developed responsive web applications using React.js and Angular.js
+- 🌐 Built and maintained [zyper-ai.vercel.app](https://zyper-ai.vercel.app) and corporate website [zyper.ai](https://zyper.ai)
+- 🤝 Collaborated with cross-functional teams to enhance user experience
+- 🔄 Integrated real-time data APIs for improved functionality
+
+## 🛠️ Technical Skills
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### UI Frameworks
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white)
+
+## 🚀 Featured Projects
+
+### 1. Chatrix (Ongoing)
+A real-time social media application built with MERN stack
+- 💬 Real-time messaging using Socket.IO
+- 🔐 Secure authentication with JWT
+- 👥 Group chat functionality
+- 📱 Responsive design with modern React patterns
+- [Repository Link](https://github.com/mohitSr1021/chatrix)
+
+### 2. E-Commerce Platform
+Full-stack e-commerce solution with comprehensive features
+- 🛍️ Complete shopping platform with Redux Toolkit
+- 👨‍💼 Advanced admin dashboard
+- 🔒 Secure user authentication
+- 📱 Responsive design
+- [Repository](https://github.com/mohitSr1021/E-Commerce-Website-MERN-Stack-Application-)
+
+## 📊 GitHub Statistics
 
 <div align="center">
-    <h3>Connect with me:</h3>
-    <a href="https://linkedin.com/in/mohit-singh-rawat-12680b21b/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-mohitsr1021-blue" alt="LinkedIn">
-    </a>
-    <a href="https://www.instagram.com/_m._s._rawat_/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-_m._s._rawat_-purple" alt="Instagram">
-    </a>
-    <h3>Languages and Tools:</h3>
-   <p> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
-<p>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohitSr1021&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohitSr1021&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitSr1021&theme=radical&hide_border=true&layout=compact)
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohitSr1021&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitSr1021&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## 🎓 Education
+- **Bachelor of Computer Applications**
+  - Guru Gobind Singh Indraprastha University
+  - CGPA: 8.81 (2023)
+  - Notable: Qualified for Smart India Hackathon 2022 finals
 
+## 📜 Certifications
+- **Android App Development** - Internshala (July 2022)
+  - 8-week intensive training
+  - Score: 78%
+  - Focus: Kotlin & Advanced App Development
 
+## 🤝 Let's Connect
+- 📧 Email: [mohit.sr.lvp1021@gmail.com](mailto:mohit.sr.lvp1021@gmail.com)
+- 💼 LinkedIn: [Mohit Singh Rawat](https://www.linkedin.com/in/mohit-singh-rawat-12680b21b)
+- 🌐 Portfolio: [View Portfolio](https://dev-portfolio-in.vercel.app/welcome)
+
+---
+
+⭐️ From [mohitSr1021](https://github.com/mohitSr1021)
