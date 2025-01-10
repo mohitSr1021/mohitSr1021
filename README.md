@@ -51,7 +51,7 @@ A real-time social media application currently being built with the MERN stack.
 - 💬 Real-time messaging using Socket.IO
 - 🔐 Secure authentication with JWT
 - 👥 Group chat functionality
-- 📱 Responsive design with modern React patterns
+- 📱 Responsive design with modern React patterns and more...
 - [Repository Link](https://github.com/mohitSr1021/chatrix)
 
 ### 2. E-Commerce Platform
@@ -79,8 +79,7 @@ Full-stack e-commerce solution with comprehensive features
 
 ## 📜 Certifications
 - **Android App Development** - Internshala (July 2022)
-  - 8-week intensive training
-  - Score: 78%
+  - Completed an 8-week intensive training with a score of 78%.
   - Focus: Kotlin & Advanced App Development
 
 ## 🤝 Let's Connect
