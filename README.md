@@ -46,7 +46,8 @@ Passionate web developer with **MERN stack** expertise. I’ve interned at Zyper
 ## 🚀 Featured Projects
 
 ### 1. Chatrix (Ongoing)
-A real-time social media application built with MERN stack
+A real-time social media application currently being built with the MERN stack.
+### Features (Planned):
 - 💬 Real-time messaging using Socket.IO
 - 🔐 Secure authentication with JWT
 - 👥 Group chat functionality
