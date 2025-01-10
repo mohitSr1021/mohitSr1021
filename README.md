@@ -66,7 +66,6 @@ Full-stack e-commerce solution with comprehensive features
 <div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohitSr1021&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohitSr1021&theme=radical&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitSr1021&theme=radical&hide_border=true&layout=compact)
 
 </div>
