@@ -50,7 +50,6 @@ A real-time social media application currently being built with the MERN stack.
 ### Features (Planned):
 - 💬 Real-time messaging using Socket.IO
 - 🔐 Secure authentication with JWT
-- 👥 Group chat functionality
 - 📱 Responsive design with modern React patterns and more...
 - [Repository Link](https://github.com/mohitSr1021/chatrix)
 - [Demo Link](https://chatrix-io.vercel.app/)
