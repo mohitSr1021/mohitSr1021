@@ -70,15 +70,6 @@ Full-stack e-commerce solution with comprehensive features
 - 📱 Responsive design
 - [Repository](https://github.com/mohitSr1021/E-Commerce-Website-MERN-Stack-Application-)
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohitSr1021&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitSr1021&theme=radical&hide_border=true&layout=compact)
-
-</div>
-
 ## 🎓 Education
 - **Bachelor of Computer Applications**
   - Guru Gobind Singh Indraprastha University
