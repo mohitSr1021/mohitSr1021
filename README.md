@@ -5,9 +5,6 @@
 I also contribute under another GitHub handle:  
 👉 [@mohitSRawat21](https://github.com/mohitSRawat21)
 
-Highlights:
-- 🦈 Earned the **Pull Shark** badge for successful PR contributions
-
 [![GitHub followers](https://img.shields.io/github/followers/mohitSr1021?label=Follow&style=social)](https://github.com/mohitSr1021)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohit--singh--rawat-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohit-singh-rawat-12680b21b)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-success?style=flat&logo=google-chrome)](https://dev-portfolio-in.vercel.app/welcome)
