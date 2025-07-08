@@ -50,11 +50,11 @@ Passionate web developer with **MERN stack** expertise. I have worked with start
 
 ## 🚀 Featured Projects
 
-### 2. Convo.io
-A real-time chat application that I am currently learning, working on, and building!
+### 1. Convo.io
+A real-time chat application that I am currently learning, working on, and building 🚀🚀!
 
 
-### 2. Chatrix
+### 2. Chatrix.io
 A real-time social media application.
 ### Features:
 - 💬 Real-time messaging using Socket.IO
