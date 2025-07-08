@@ -50,16 +50,20 @@ Passionate web developer with **MERN stack** expertise. I have worked with start
 
 ## 🚀 Featured Projects
 
-### 1. Chatrix
-A real-time social media application currently being built with the MERN stack.
-### Features (Planned):
+### 2. Convo.io
+A real-time chat application that I am currently learning, working on, and building!
+
+
+### 2. Chatrix
+A real-time social media application.
+### Features:
 - 💬 Real-time messaging using Socket.IO
 - 🔐 Secure authentication with JWT
 - 📱 Responsive design with modern React patterns and more...
 - [Repository Link](https://github.com/mohitSr1021/chatrix)
 - [Demo Link](https://chatrix-io.vercel.app/)
 
-### 2. E-Commerce Platform
+### 3. E-Commerce Platform
 Full-stack e-commerce solution with comprehensive features
 - 🛍️ Complete shopping platform with Redux Toolkit
 - 👨‍💼 Advanced admin dashboard
