@@ -15,7 +15,7 @@ I also contribute under another GitHub handle:
 </div>
 
 ## 🎯 About Me
-Passionate web developer with **MERN stack** expertise. I have worked with Zyper.ai and am continuously working on innovative projects. With a strong academic background (CGPA: 8.81), I’m committed to continuous learning. As a tea enthusiast, I believe in the power of a well-brewed cup to enhance focus and productivity.
+Passionate web developer with **MERN stack** expertise. I have worked with startups and am continuously working on innovative projects. With a strong academic background (CGPA: 8.81), I’m committed to continuous learning. As a tea enthusiast, I believe in the power of a well-brewed cup to enhance focus and productivity.
 
 
 ## 💼 Professional Experience
