@@ -21,7 +21,7 @@ Passionate web developer with **MERN stack** expertise. I have worked with start
 ## 💼 Professional Experience
 
 ### ![Frontend Developer Badge](https://img.shields.io/badge/Frontend%20Developer-HirreeTech%20Consulting%20&%20Services%20Pvt%20Ltd-0aa683?style=flat-square&logo=react&logoColor=white)  
-**Apr 2025 – Present**
+**Apr 2025 – July 2025**
 
 **Tech Stack:** React.js, JavaScript (ES6+), Tailwind CSS, REST APIs, Git, Redux Toolkit.  
 **Tools & Services:** Jira, Postman, Docker.  
