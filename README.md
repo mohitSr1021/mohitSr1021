@@ -55,7 +55,7 @@ Passionate web developer with **MERN stack** expertise. I have worked with start
 
 ### 1. Convo.io
 A real-time chat application that I am currently learning, working on, and building 🚀🚀!
-<br>**Link:** `https://convo-io.vercel.app/`
+<br>**Link:** <a href="https://convo-io.vercel.app/" target="_blank" style="background-color: white; color: black;">`https://convo-io.vercel.app/`</a>
 
 ### 2. Chatrix.io
 A real-time social media application.
