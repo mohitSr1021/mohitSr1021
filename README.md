@@ -11,22 +11,6 @@
 Passionate web developer with **MERN stack** expertise. I have worked with startups and am continuously working on innovative projects. With a strong academic background (CGPA: 8.81), I’m committed to continuous learning. As a tea enthusiast, I believe in the power of a well-brewed cup to enhance focus and productivity.
 
 
-## 💼 Professional Experience
-
-### ![Frontend Developer Badge](https://img.shields.io/badge/Frontend%20Developer-HirreeTech%20Consulting%20&%20Services%20Pvt%20Ltd-0aa683?style=flat-square&logo=react&logoColor=white)  
-**Apr 2025 – July 2025**
-
-**Tech Stack:** React.js, JavaScript (ES6+), Tailwind CSS, REST APIs, Git, Redux Toolkit.  
-**Tools & Services:** Jira, Postman, Docker.  
-
----
-
-### ![Software Intern Badge](https://img.shields.io/badge/Software%20Development%20Intern-Zyper.ai%20Pvt%20Ltd-007acc?style=flat-square&logo=javascript&logoColor=white)  
-**Apr 2024 – Aug 2024**
-
-**Tech Stack:** React.js, Angular.js, JavaScript (ES6+), Context API, Tailwind CSS, REST APIs, Git.  
-**Tools & Services:** Postman. 
-
 ## 🛠️ Technical Skills
 
 ### Frontend Development
