@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Mohit
 
 [![GitHub followers](https://img.shields.io/github/followers/mohitSr1021?label=Follow&style=social)](https://github.com/mohitSr1021)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohit--singh--rawat-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohit-singh-rawat-12680b21b)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-success?style=flat&logo=google-chrome)](https://dev-portfolio-in.vercel.app/welcome)
 
 <div align="center">
